@@ -1,6 +1,3 @@
-Sure — here is a **single complete `README.md`** containing the project structure, problem statement, analysis, OOP concepts, UML diagram, algorithm, source-file descriptions, execution steps, test cases, sample output, screenshots section, and GitHub instructions.
-
- Create a file named **`README.md`** in the root of your project and paste this:
 
  # Publishing OOP Assignment
 
